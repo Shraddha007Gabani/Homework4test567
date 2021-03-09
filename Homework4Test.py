@@ -6,6 +6,7 @@ class TestgetRepo(unittest.TestCase):
         expected = ['User: Shraddha007Gabani',
 'Repo: 567_Homework1 Number of commits: 5',
 'Repo: helloworld Number of commits: 2',
+'Repo: Homework4test567 Number of commits: 5',
 'Repo: Parse-GEDCOM Number of commits: 30',
 'Repo: Student-Repository Number of commits: 6',
 'Repo: Student_Repository Number of commits: 23',
