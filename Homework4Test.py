@@ -5,8 +5,9 @@ class TestgetRepo(unittest.TestCase):
     def test_repo(self):
         expected = ['User: Shraddha007Gabani',
 'Repo: 567_Homework1 Number of commits: 5',
+'Repo: HW05_567 Number of commits: 2',
 'Repo: helloworld Number of commits: 2',
-'Repo: Homework4test567 Number of commits: 7',
+'Repo: Homework4test567 Number of commits: 8',
 'Repo: Parse-GEDCOM Number of commits: 30',
 'Repo: Student-Repository Number of commits: 6',
 'Repo: Student_Repository Number of commits: 23',
