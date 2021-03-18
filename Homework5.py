@@ -11,7 +11,7 @@ def get_repositories(usr):
     r_url = "https://api.github.com/users/"
     c_url = "https://api.github.com/repos/"
 
-    repo_url = r_url + f'{usr}/' + 'repos'
+    repo_url = r_url + f'{usr}//' + 'repos'
 
     try:
         repo_url = requests.get(url = repo_url)
